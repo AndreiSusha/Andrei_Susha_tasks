@@ -1,4 +1,5 @@
 <?php
+$title = "Exercise 1";
  include "header.php" ?>
     <h3>3.1 Write a simple PHP script to print your information (Name and your groupid)</h3>
 <?php
