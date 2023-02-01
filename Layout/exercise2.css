@@ -4,9 +4,9 @@ body {
     font-family: Roboto;
 }
 
-.php {
+/*.php {
     margin-left: 200px;
-}
+}*/
 
 html, body{
     max-width: 100%;
@@ -120,4 +120,9 @@ a {
 .footer-bottom {
     padding-top: 40px;
     font-size: 13px;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
 }
