@@ -47,7 +47,7 @@ echo "
 ";
 ?>
 
-<h3>4 Image</h3>
+<h3>4 Screenshot</h3>
 <img style="width: 100%" src="image.png" alt="i1"
 
 <?php include "footer.php" ?>
