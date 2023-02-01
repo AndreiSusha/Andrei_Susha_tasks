@@ -24,7 +24,7 @@ echo "<h1>" . $title1. "</h1>";
 ?>
 
 
-<h3>3.5</h3>
+<h3>3.5 Table</h3>
 <?php
 $g1 = 5;
 $g2 = 4;
@@ -47,7 +47,7 @@ echo "
 ";
 ?>
 
-<h3>4</h3>
+<h3>4 Image</h3>
 <img style="width: 100%" src="image.png" alt="i1"
 
 <?php include "footer.php" ?>
