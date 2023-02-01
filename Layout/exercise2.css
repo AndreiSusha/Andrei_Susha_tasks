@@ -4,6 +4,10 @@ body {
     font-family: Roboto;
 }
 
+.php {
+    margin-left: 200px;
+}
+
 html, body{
     max-width: 100%;
     overflow-x: hidden;
@@ -12,10 +16,6 @@ html, body{
 header, footer {
     background-color: #F8C765;
 }
-
-/*.my-class-with-padding {
-    padding-left: 58px;
-}*/
 
 .navbar-brand {
     display: block;
