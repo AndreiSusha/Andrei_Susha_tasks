@@ -35,7 +35,7 @@ $g3 = 5;
 
 <h3>Table</h3>
 <?php
-    echo "<table class='table table-striped table-dark'>
+    echo "<table class='table table-striped'>
     <thead>
       <tr>
         <th scope='col'>S.N</th>
