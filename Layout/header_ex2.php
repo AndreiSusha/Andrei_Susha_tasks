@@ -40,6 +40,9 @@
               <a class="nav-link active" aria-current="page" href="exercise2.php">Exercise 2</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="variable.php">Exercise 3</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="contactus.php">Contact</a>
             </li>
           </ul>
