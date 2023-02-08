@@ -70,10 +70,9 @@
           <div class="col-md-12 text-center">
             <?php
             echo "&copy; 2023 Skate Shop<br>";
-            $file = $_SERVER["SCRIPT_NAME"];
-            $break = Explode('/', $file);
-            $pfile = $break[count($break) - 1];
-            echo "This page was last modified on " . date("F d Y H:i:s.", filemtime($pfile));
+            $fname = basename($_SERVER["PHP_SELF"]);
+            $last_modified = filemtime($fname);
+            echo "This page was last modified on " . date("F d Y H:i:s.", $last_modified);
             ?>
           </div>
         </div>
