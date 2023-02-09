@@ -160,7 +160,7 @@ for ($i=0; $i< 5; $i++)
 echo $temp_array[$i].", ";
 }
 echo "<br>List of five highest temperatures :";
-// explain the following loop
+// explain the following loop. Selects the 5 highest temperatures from the list above and prints them
 for ($i=($temp_array_length-5); $i< ($temp_array_length); $i++)
 {
 echo $temp_array[$i].", ";
